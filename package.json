@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.490.0",
+    "axios": "^1.6.8",
     "better-sqlite3": "^9.2.2",
     "next": "14.0.4",
+    "node": "^21.7.1",
     "react": "^18",
     "react-dom": "^18",
     "slugify": "^1.6.6",
+    "uuid": "^9.0.1",
     "xss": "^1.0.14"
   },
   "devDependencies": {

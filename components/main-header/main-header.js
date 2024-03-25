@@ -26,6 +26,9 @@ function MainHeader() {
           <li>
             <NavLink href='/community'>Foodies Community</NavLink>
           </li>
+          <li>
+            <Link href='/movie'>Movie Review</Link>
+          </li>
         </ul>
       </nav>
       </header>
